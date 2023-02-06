@@ -5,6 +5,6 @@ UGAHacks 8 Winner of Best Use of Velo by Wix.
 
 Todo:   
 - [ ] Clean up code, delete comments. 
-Future Plans:
+Future Plans:     
 - Looking into adding more info in SMS message sent, implementing login feature to website. 
 
